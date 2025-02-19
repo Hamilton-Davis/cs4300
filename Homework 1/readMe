@@ -1,0 +1,32 @@
+This is the read me documentation, all of the code has been tested using pytest in DevEdu. (10/10 Pass)
+
+task1.py
+Returns the string "Hello, World!".
+
+task2.py
+Returns a dictionary with different data types: integer, float, string, and boolean.
+
+task3.py
+Checks if a number is positive, negative, or zero.
+Returns the first n prime numbers.
+Returns the sum of numbers from 1 to 100.
+
+task4.py
+Calculates and returns the discounted price.
+
+task5.py
+Returns a list of books.
+Returns a dictionary of student names and their IDs.
+
+task6.py
+Counts and returns the number of words in a file.
+
+task7.py
+Calculates and returns the sum of elements in an array using NumPy.
+
+And Lastly, test_tasks.py.
+This file contains tests for functions from other files. It uses the
+pytest framework to verify that each function works correctly by checking
+if they return the expected results. Each test checks a different function,
+and if the output matches what’s expected, the test passes. If it does not, the test fails.
+
