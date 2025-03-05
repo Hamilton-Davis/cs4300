@@ -22,10 +22,6 @@ This guide will walk you through the steps to run my project on devedu. You can 
    Alternatively, use the port that appears after running the server.
 
 
-# Acknowledgements
-    During the development of this project, I used ChatGPT to help me understand the structure of the program and troubleshoot testing issues. While ChatGPT was useful for understanding commands, it wasn't as helpful with testing.
-    Here’s the link to the conversation that helped me: [ChatGPT Conversation](https://chatgpt.com/share/67c7c40e-9f00-8008-89cf-7de68fc6f19c)
-
 
 
 
